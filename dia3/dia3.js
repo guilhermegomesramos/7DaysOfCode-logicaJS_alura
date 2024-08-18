@@ -1,3 +1,4 @@
+
 const area = prompt("Você quer seguir para a área de 'Front-End' ou 'Beck-End'? Digite o nome da área: ")
 let linguagem = ""
 if (area === "Front-End"){
